@@ -1,0 +1,14 @@
+{
+  "name": "glenn-skills",
+  "description": "Personal Claude Code skills, including multi-agent presets",
+  "owner": {
+    "name": "glenn1of1"
+  },
+  "plugins": [
+    {
+      "name": "glenn-skills",
+      "source": "./plugins/glenn-skills",
+      "description": "Skills and multi-agent presets, starting with startup-mvp: MVP scoping and implementation planning with GO/NO-GO gates"
+    }
+  ]
+}
